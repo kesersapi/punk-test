@@ -5,3 +5,4 @@ go 1
 play
 onemore
 dont stop me
+play sound stop
