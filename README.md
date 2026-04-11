@@ -6,4 +6,4 @@ play
 onemore
 dont stop me
 play sound stop play musicc....
-v123 close değil
+v123 close değil win
