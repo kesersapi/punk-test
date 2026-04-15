@@ -1,10 +1,12 @@
-# punk-test11 scofielad coutdown final 345
-test2234
-devam ediyoruz.
-go 1
-play
-onemore
-dont stop me
-play sound stop play musicc....
-v123 close değil win
-yes sir.!!! yes one....two.....one
+# Basit Toplama Hesap Makinesi
+
+# Kullanıcıdan sayıları alıyoruz
+# input() fonksiyonu veriyi metin (string) olarak aldığı için float() ile sayıya çeviriyoruz
+sayi1 = float(input("Birinci sayıyı girin: "))
+sayi2 = float(input("İkinci sayıyı girin: "))
+
+# Toplama işlemini gerçekleştiriyoruz
+toplam = sayi1 + sayi2
+
+# Sonucu ekrana yazdırıyoruz..
+print(f"Sonuç: {sayi1} + {sayi2} = {toplam}")
