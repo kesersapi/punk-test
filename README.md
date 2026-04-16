@@ -8,5 +8,5 @@ sayi2 = float(input("İkinci sayıyı girin: "))
 # Toplama işlemini gerçekleştiriyoruz
 toplam = sayi1 + sayi2
 
-# Sonucu ekrana yazdırıyoruz..
+# Sonucu ekrana yazdırıyoruz..123
 print(f"Sonuç: {sayi1} + {sayi2} = {toplam}")
