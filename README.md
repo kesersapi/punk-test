@@ -1,4 +1,4 @@
-# Basit Toplama Hesap Makinesi
+# Basit Toplama Hesap Makinesi new step
 
 # Kullanıcıdan sayıları alıyoruz
 # input() fonksiyonu veriyi metin (string) olarak aldığı için float() ile sayıya çeviriyoruz
